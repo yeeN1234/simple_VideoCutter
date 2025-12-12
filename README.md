@@ -1,5 +1,5 @@
 
-# Video Splitter Tool (影片轉圖片工具)
+# Video Cutter Tool (影片轉圖片工具)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
