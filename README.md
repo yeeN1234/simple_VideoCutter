@@ -57,23 +57,6 @@ python video_cutter.py
 
 完成：轉換結束後會跳出提示視窗。
 
-## 📦 如何打包成 EXE (Build EXE)
-如果你想將此程式打包成 Windows 可執行檔 (.exe) 分享給他人，請使用 pyinstaller。
-
-安裝 PyInstaller
-
-```Bash
-
-pip install pyinstaller
-```
-執行打包指令
-
-```Bash
-
-pyinstaller --noconsole --onefile --name "VideoSplitter" video_cutter.py
-```
-取得檔案 打包完成後，你的 .exe 檔案會位於 dist/ 資料夾內。
-
 ## 📝 授權 (License)
 本專案採用 MIT License 授權。 歡迎自由使用、修改與分發，但請保留原作者版權聲明。
 
